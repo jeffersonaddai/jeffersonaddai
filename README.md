@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I am Jefferson • Full-Stack Developer • Student</h2>
-<h4 align="center">🔭 I’m currently working with Amalitech gGmbh</h4>
+<h4 align="center">🔭 I’m currently working with Amalitech Gmbh</h4>
 
 
 <p align="center">
